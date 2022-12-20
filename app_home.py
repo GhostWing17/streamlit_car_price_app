@@ -2,7 +2,7 @@ import streamlit as st
 
 
 def run_home_app() :
-    st.text('안녕하세요.')
+    st.text('Welcome~')
     img_url = 'https://blog.kakaocdn.net/dn/MIwEC/btqZ3gi5r2C/m9QnC7TlkSc9rLL1NuMcEK/img.png'
     st.image(img_url)
 
